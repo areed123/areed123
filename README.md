@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Currently studying at Texas State University
+- Learning about building a linux distro
+- Interested in entry level positions in systems engineering, software engineering, kernel development
+
+-[LinkedIn](https://www.linkedin.com/in/aiden-reed/)
+-[Email](aidenreed1324@gmail.com)
