@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - Interested in entry level positions in systems engineering, software engineering, kernel development
 
 -[LinkedIn](https://www.linkedin.com/in/aiden-reed/)
--[Email](aidenreed1324@gmail.com)
+-Email:(aidenreed1324@gmail.com)
