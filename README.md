@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - Graduated Magna Cum Laude at Texas State University with a B.S. in Computer Science(GPA: 3.75)
 - Interested in entry level positions in OS development, embedded systems, software engineering
-- Currently Learning 
+- Currently learning about
     - Emulation
     - Building A Linux Distro
 
