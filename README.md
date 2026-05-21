@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Currently studying at Texas State University
-- Learning about building a linux distro
-- Interested in entry level positions in systems engineering, software engineering, kernel development
+- Graduated Magna Cum Laude at Texas State University with a B.S. in Computer Science(GPA: 3.75)
+- Interested in entry level positions in OS development, embedded systems, software engineering
+- Currently Learning 
+    - Emulation
+    - Building A Linux Distro
+  
 
 -[LinkedIn](https://www.linkedin.com/in/aiden-reed/)
 -Email:(aidenreed1324@gmail.com)
