@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     - Building A Linux Distro
 
   ### Projects
-  [Blue Emu](https://github.com/areed123/BlueEmu)
+      - [Blue Emu](https://github.com/areed123/BlueEmu)
 
 -[LinkedIn](https://www.linkedin.com/in/aiden-reed/)
 -Email:(aidenreed1324@gmail.com)
