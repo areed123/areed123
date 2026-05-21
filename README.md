@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 
   ### Projects
   #### [Blue Emu](https://github.com/areed123/BlueEmu)
- A software emulator for the computer specification Blue, from Caxton C. Foster's "Computer Architecture". This emulator implements the entire instruction set specified in the book and is written in C++
-#### [Discrete Event Simulators]
+    A software emulator for the computer specification Blue, from Caxton C. Foster's "Computer Architecture". This emulator implements the entire instruction set specified in the book and is written in C++
+    #### Discrete Event Simulators, [SJF/FCFS](https://github.com/areed123/WorkLoadSimulators) [FSRR] (https://github.com/areed123/RoundRobinSim)
+    Discrete Event Simulators that simulate the scheduling of a randomly generated workload and calculates relevant performance metrics. The first simulator simulates a Shortest Job First or First Come First Serve Scheduler. The second simulator simulates a priority round robin scheduler. Written in C++
+####
 -[LinkedIn](https://www.linkedin.com/in/aiden-reed/)
 -Email:(aidenreed1324@gmail.com)
