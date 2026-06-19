@@ -21,6 +21,8 @@ Here are some ideas to get you started:
     - Building A Linux Distro
 
   ### Projects
+  #### [ChipEmu](https://github.com/areed123/ChipEmu)
+  A CHIP-8 interpreter built from scratch in C++, covering the full instruction set — memory, registers, the display/draw cycle with collision detection, and keypad input — rendered through SDL2.
   #### [Blue Emu](https://github.com/areed123/BlueEmu)
     A software emulator for the computer specification Blue, from Caxton C. Foster's "Computer Architecture". This emulator implements the entire instruction set specified in the book and is written in C++
     #### Discrete Event Simulators, [SJF/FCFS](https://github.com/areed123/WorkLoadSimulators) [FSRR](https://github.com/areed123/RoundRobinSim)
